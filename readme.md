@@ -11,7 +11,7 @@ PythonのNLTK内のWordNet 3.0からSynset（意味素）に綴を振って生�
 # 妥協点
 実用に耐えることを第一に、語彙は自動生成しましたし、枝分かれの少ない上位の階層構造を省略して綴を短くするなど、合理を犠牲に効率を取ったところもあります。十分な時間と技術があれば、もっと意味を厳選して整然とした階層構造、さらには意味の構成要素も加味した網構造から生成したいものです。
 # 意味素の階層構造
-- entity
+- [entity](http://wordnetweb.princeton.edu/perl/webwn?o2=&o0=1&o8=1&o1=1&o7=1&o5=&o9=&o6=&o3=&o4=&s=entity&i=12&h=1111000000010000#c)
   - physical entity
   - abstraction6
     - attribute
